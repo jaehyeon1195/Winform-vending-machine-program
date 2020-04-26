@@ -1,0 +1,34 @@
+C:\Users\54281\OneDrive\바탕 화면\1004 시험\1004 시험\bin\Debug\1004 시험.exe.config
+C:\Users\54281\OneDrive\바탕 화면\1004 시험\1004 시험\bin\Debug\1004 시험.exe
+C:\Users\54281\OneDrive\바탕 화면\1004 시험\1004 시험\bin\Debug\1004 시험.pdb
+C:\Users\54281\OneDrive\바탕 화면\1004 시험\1004 시험\obj\Debug\1004 시험.csprojAssemblyReference.cache
+C:\Users\54281\OneDrive\바탕 화면\1004 시험\1004 시험\obj\Debug\_1004_시험.Form1.resources
+C:\Users\54281\OneDrive\바탕 화면\1004 시험\1004 시험\obj\Debug\_1004_시험.Properties.Resources.resources
+C:\Users\54281\OneDrive\바탕 화면\1004 시험\1004 시험\obj\Debug\1004 시험.csproj.GenerateResource.cache
+C:\Users\54281\OneDrive\바탕 화면\1004 시험\1004 시험\obj\Debug\1004 시험.exe
+C:\Users\54281\OneDrive\바탕 화면\1004 시험\1004 시험\obj\Debug\1004 시험.pdb
+C:\Users\54281\OneDrive\바탕 화면\1004 시험\1004 시험\obj\Debug\_1004_시험.Form2.resources
+C:\Users\54281\OneDrive\바탕 화면\1004 시험\1004 시험\obj\Debug\_1004_시험.Form3.resources
+C:\Users\54281\OneDrive\바탕 화면\비트고급30기\5.WinForm\1004 시험\1004 시험\bin\Debug\1004 시험.exe.config
+C:\Users\54281\OneDrive\바탕 화면\비트고급30기\5.WinForm\1004 시험\1004 시험\bin\Debug\1004 시험.exe
+C:\Users\54281\OneDrive\바탕 화면\비트고급30기\5.WinForm\1004 시험\1004 시험\bin\Debug\1004 시험.pdb
+C:\Users\54281\OneDrive\바탕 화면\비트고급30기\5.WinForm\1004 시험\1004 시험\obj\Debug\1004 시험.csprojAssemblyReference.cache
+C:\Users\54281\OneDrive\바탕 화면\비트고급30기\5.WinForm\1004 시험\1004 시험\obj\Debug\_1004_시험.Form1.resources
+C:\Users\54281\OneDrive\바탕 화면\비트고급30기\5.WinForm\1004 시험\1004 시험\obj\Debug\_1004_시험.Form2.resources
+C:\Users\54281\OneDrive\바탕 화면\비트고급30기\5.WinForm\1004 시험\1004 시험\obj\Debug\_1004_시험.Form3.resources
+C:\Users\54281\OneDrive\바탕 화면\비트고급30기\5.WinForm\1004 시험\1004 시험\obj\Debug\_1004_시험.Properties.Resources.resources
+C:\Users\54281\OneDrive\바탕 화면\비트고급30기\5.WinForm\1004 시험\1004 시험\obj\Debug\1004 시험.csproj.GenerateResource.cache
+C:\Users\54281\OneDrive\바탕 화면\비트고급30기\5.WinForm\1004 시험\1004 시험\obj\Debug\1004 시험.exe
+C:\Users\54281\OneDrive\바탕 화면\비트고급30기\5.WinForm\1004 시험\1004 시험\obj\Debug\1004 시험.pdb
+C:\Users\user\Desktop\비트고급30기\5.WinForm\1004 시험\1004 시험\bin\Debug\1004 시험.exe.config
+C:\Users\user\Desktop\비트고급30기\5.WinForm\1004 시험\1004 시험\bin\Debug\1004 시험.exe
+C:\Users\user\Desktop\비트고급30기\5.WinForm\1004 시험\1004 시험\bin\Debug\1004 시험.pdb
+C:\Users\user\Desktop\비트고급30기\5.WinForm\1004 시험\1004 시험\obj\Debug\1004 시험.csprojAssemblyReference.cache
+C:\Users\user\Desktop\비트고급30기\5.WinForm\1004 시험\1004 시험\obj\Debug\_1004_시험.Form1.resources
+C:\Users\user\Desktop\비트고급30기\5.WinForm\1004 시험\1004 시험\obj\Debug\_1004_시험.Form2.resources
+C:\Users\user\Desktop\비트고급30기\5.WinForm\1004 시험\1004 시험\obj\Debug\_1004_시험.Form3.resources
+C:\Users\user\Desktop\비트고급30기\5.WinForm\1004 시험\1004 시험\obj\Debug\_1004_시험.Properties.Resources.resources
+C:\Users\user\Desktop\비트고급30기\5.WinForm\1004 시험\1004 시험\obj\Debug\1004 시험.csproj.GenerateResource.cache
+C:\Users\user\Desktop\비트고급30기\5.WinForm\1004 시험\1004 시험\obj\Debug\1004 시험.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\비트고급30기\5.WinForm\1004 시험\1004 시험\obj\Debug\1004 시험.exe
+C:\Users\user\Desktop\비트고급30기\5.WinForm\1004 시험\1004 시험\obj\Debug\1004 시험.pdb
